@@ -1,10 +1,15 @@
 # rolldice
 
-A new Flutter project.
+A Flutter Dice Roller App
 
-## Getting Started
+## About App
 
-This project is a starting point for a Flutter application.
+This project uses the Random number generate function in the inbuilt dart:math package.
+
+Using a Stateful Widget class, we are able to change the UI and display new instance of the dice that has been generated. 
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
